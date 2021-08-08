@@ -54,9 +54,9 @@
   <a href="https://www.hackerrank.com/kanberfurkan" target="blank"
     ><img
       align="center"
-      src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
       alt="kanberfurkan"
-      height="30"
-      width="30"
+      height="40"
+      width="40"
   /></a>
 </p>
