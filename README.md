@@ -1,5 +1,5 @@
 <h1> Hello! 👋 I am Furkan Kanber </h1> 
-<h3> Software Engineer 💻 Android Developer </h3>
+<h3> Jr. Software Engineer 💻 Android Developer </h3>
 
   
 - 🎓 I graduated from the **Software Engineering** at Bahçeşehir University. 
