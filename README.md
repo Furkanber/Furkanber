@@ -6,6 +6,8 @@
 - 🔭 I’m currently learning & developing **Kotlin**.
 - 💬 You can ask me about **anything**.
 - 📫 Contact me **kanberfurkan@gmail.com**
+- 
+<h1></h1> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -60,3 +62,8 @@
       width="35"
   /></a>
 </p>
+
+<h1></h1> 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Furkanber&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Furkanber" /> </p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Furkanber&show_icons=true&locale=en&theme=tokyonight" alt="Furkanber" /> </p>
