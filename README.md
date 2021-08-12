@@ -48,15 +48,15 @@
       align="center"
       src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
       alt="furkanber"
-      height="30"
-      width="30"
+      height="35"
+      width="35"
   /></a>
   <a href="https://www.hackerrank.com/kanberfurkan" target="blank"
     ><img
       align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png"
       alt="kanberfurkan"
-      height="40"
-      width="40"
+      height="35"
+      width="35"
   /></a>
 </p>
