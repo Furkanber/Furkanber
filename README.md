@@ -66,4 +66,6 @@
 
 <h1></h1> 
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Furkanber&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Furkanber" /> </p>
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Furkanber&show_icons=true&locale=en&theme=tokyonight" alt="Furkanber" /> </p>
